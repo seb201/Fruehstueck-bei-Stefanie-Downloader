@@ -1,5 +1,5 @@
 # Fruehstueck-bei-Stefanie-Downloader
-Dieses Shell Script lädt alle verfügbaren Folgen der Radiosendung "Frühstück bei Stefanie" herunter
+Dieses Shell Script lädt alle verfügbaren Folgen der Radiosendung "Frühstück bei Stefanie" vom NDR Server herunter
 
 Dieses Script sollte auf allen unixoiden Betriebssystemen laufen.
 Zum Ändern der ID3 Tags muss das Kommandozeilenprogramm eyeD3 installiert sein.
